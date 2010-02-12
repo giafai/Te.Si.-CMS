@@ -1,0 +1,35 @@
+* {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 14px;}
+body {border: 1px solid black; margin: 3px; padding: 5px;}
+h1 {text-align: center; font-size: 20px;}
+label {float: left; width: 170px; text-align: right; padding: 0 5px 10px 0;}
+input.txt {margin-bottom: 10px; width: 200px;}
+a img {border:0;}
+
+
+#header {height: 75px; font-size: 14px; color: white; padding: 10px; background: #af9f9f; text-align: right; margin-bottom: 15px;}
+#header h1 {font-size: 18px; color: navy; text-align: right;}
+
+#footer {height: 5px;background: #af9f9f; }
+
+#messaggi {background: #80ff80; margin: 5px 15px; padding: 3px; }
+
+#conteiner {border: 1px solid #af9f9f; }
+
+/* menu */
+#menu {float: left;	 width: 150px; padding: 3px;}
+#menu a {display: block; text-decoration:none; margin: 3px 0;}
+#menu a:hover {text-decoration: underline}
+
+/* main */
+#main {border-left: 1px solid #af9f9f; padding: 5px; margin-left: 160px;min-height: 300px;}
+
+/* login */
+#login {margin: 160px auto; width: 400px; text-align: center;}
+#login form{margin-top: 20px;}
+#login label {}
+#login input.txt {}
+
+
+/* i_training */
+#i_training {width: 400px;}
+#i_training #ui-datepicker-div {padding-top: 100px;}
